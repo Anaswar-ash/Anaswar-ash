@@ -7,6 +7,10 @@
   <a href="mailto:anaswar.ash@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
+    </a>
+  <a href="mailto:anaswar.ash@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo"/>
+  </a>
 </p>
 
 I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverage a unique blend of expertise from my MBA in Finance and B.Tech in Computer Science to transform complex datasets into actionable business intelligence. Proficient in machine learning, full-stack development, and end-to-end analytics workflows on platforms like **Databricks**, I am passionate about building data-driven applications that solve business problems.
