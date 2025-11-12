@@ -36,9 +36,10 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
       <ul>
         <li>Machine Learning & AI</li>
         <li>Time-Series Forecasting (ARIMA, LSTM)</li>
-        <li>Natural Language Processing (NLP - VADER, FinBERT)</li>
+        <li>Natural Language Processing (NLP - VADER, FinBERT, NLTK)</li>
         <li>Deep Learning (CNNs)</li>
         <li>Statistical & Actuarial Analysis</li>
+        <li>Scikit-learn</li>
       </ul>
     </td>
   </tr>
@@ -74,7 +75,7 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
 * **Pre-Stocked: Stock Analysis & Forecasting Tool**
     * Developed a full-stack web application combining time-series forecasting (**ARIMA**, **LSTM**) with NLP sentiment analysis (**FinBERT**) on Reddit data.
     * Engineered a non-blocking user experience using **Celery** and **Redis** for asynchronous task processing and **PostgreSQL** for caching results.
-    * **https://github.com/Anaswar-ash/Pre-Stocked.git**
+    * **https://github.com/Anaswar-ash/Pre-Stocked**
 
 * **Actuarial Analysis: Life Insurance Pricing Model**
     * Built a life insurance pricing model in Python based on actuarial principles, using **CSO Mortality Tables** to calculate risk and premiums.
@@ -84,9 +85,9 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
     * Analyzed 25 years of historical market data in both **Python** and **R** to identify monthly trends and evaluate optimal investment timing strategies.
     * **https://github.com/Anaswar-ash/Python-FTSE-100-Monthly-Trend-Analysis | https://github.com/Anaswar-ash/R-Project-for-FTSE-100-Analysis**
 
-* **App-DTox: Digital Wellbeing Tracker**
-    * Created a digital wellbeing application that tracks app usage with a numerical and statistical approach, providing users with data-driven insights into their digital habits.
-    * **https://github.com/Anaswar-ash/App-DTox**
+* **Customer Review Sentiment Analysis**
+    * Automatically classifies written customer reviews into "Positive", "Negative", and "Neutral" categories using a machine learning model trained on the Amazon Fine Food Reviews dataset.
+    * **https://github.com/Anaswar-ash/Customer-Review-Sentiment-Analysis**
 
 ---
 
