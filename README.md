@@ -1,7 +1,7 @@
 # Hi there, I'm Anaswar (Ash) 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/anaswar-thiruthiyilthazham-72bb48145/" target="_blank">
+  <a href="https://www.linkedin.com/in/anaswar-ash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anaswar.ash@outlook.com">
