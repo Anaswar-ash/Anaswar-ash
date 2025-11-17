@@ -17,7 +17,7 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
 
 ---
 
-### 💻 **Core Competencies & Tech Stack**
+### 💻 **Core Competencies and Tech Stack**
 
 <table>
   <tr>
