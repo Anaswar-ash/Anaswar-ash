@@ -4,12 +4,8 @@
   <a href="https://www.linkedin.com/in/anaswar-ash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anaswar.ash@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-    </a>
-  <a href="mailto:anaswar.ash@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo"/>
+  <a href="mailto:ash@anaswar.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -72,6 +68,18 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
 
 ### 🚀 **Featured Projects**
 
+* **Reddit Sentiment Analyzer**
+    * A tool to analyze the sentiment of Reddit posts using NLP and machine learning techniques. Fetches live data from Reddit, processes text to analyze public sentiment, and visualizes trends.
+    * **https://github.com/Anaswar-ash/reddit-sentiment-analyzer**
+
+* **Liquidity Risk Reporting System**
+    * Comprehensive reporting system for analyzing and visualizing liquidity risk in financial portfolios (LCR and NSFR calculations and stress testing).
+    * **https://github.com/Anaswar-ash/LiquidityRisk-Reporting-Project**
+
+* **AI-Enhanced MQL5 Trading Bot**
+    * A complete framework for creating an AI-enhanced trading bot in MQL5, using Python for model training and the ONNX format for deployment on the MetaTrader 5 platform.
+    * **https://github.com/Anaswar-ash/MT5-PY-AI-Tbot**
+
 * **Pre-Stocked: Stock Analysis & Forecasting Tool**
     * Developed a full-stack web application combining time-series forecasting (**ARIMA**, **LSTM**) with NLP sentiment analysis (**FinBERT**) on Reddit data.
     * Engineered a non-blocking user experience using **Celery** and **Redis** for asynchronous task processing and **PostgreSQL** for caching results.
@@ -104,6 +112,7 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
     * Introduction to SAFe®
 * **Finance & Strategy:**
     * CMI Level 7 in Strategic Management & Leadership Practice
+    * AI and Digital Transformation in Government (Oxford & UNESCO)
     * Bloomberg Market Concepts (BMC), ESG & Finance Fundamentals
 
 ---
@@ -112,7 +121,7 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
 
 I'm always open to discussing new projects, creative ideas, or opportunities in data science and financial technology.
 
-* **Email:** [anaswar.ash@outlook.com](mailto:anaswar.ash@outlook.com)
+* **Email:** [ash@anaswar.com](mailto:ash@anaswar.com)
 * **LinkedIn:** [/in/anaswar-thiruthiyilthazham](https://linkedin.com/in/anaswar-thiruthiyilthazham-72bb48145/)
 
 ---
