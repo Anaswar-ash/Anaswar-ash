@@ -122,11 +122,20 @@ I am a Data Analyst specializing in Financial Analysis and Applied AI. I leverag
 I'm always open to discussing new projects, creative ideas, or opportunities in data science and financial technology.
 
 * **Email:** [ash@anaswar.com](mailto:ash@anaswar.com)
+    * Bloomberg Market Concepts (BMC), ESG & Finance Fundamentals
+
+---
+
+### 📫 **Get in Touch**
+
+I'm always open to discussing new projects, creative ideas, or opportunities in data science and financial technology.
+
+* **Email:** [ash@anaswar.com](mailto:ash@anaswar.com)
 * **LinkedIn:** [/in/anaswar-thiruthiyilthazham](https://linkedin.com/in/anaswar-thiruthiyilthazham-72bb48145/)
 
 ---
 
 ### 📊 **GitHub Stats**
 
-![Anaswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaswar-ash&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaswar-ash&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anaswar's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Anaswar-ash&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anaswar-ash&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
